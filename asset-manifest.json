@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pegboardmaker/static/css/main.1743f26c.css",
-    "main.js": "/pegboardmaker/static/js/main.799e4be8.js",
+    "main.js": "/pegboardmaker/static/js/main.69a1d2d2.js",
     "static/js/453.771dee9a.chunk.js": "/pegboardmaker/static/js/453.771dee9a.chunk.js",
     "index.html": "/pegboardmaker/index.html",
     "main.1743f26c.css.map": "/pegboardmaker/static/css/main.1743f26c.css.map",
-    "main.799e4be8.js.map": "/pegboardmaker/static/js/main.799e4be8.js.map",
+    "main.69a1d2d2.js.map": "/pegboardmaker/static/js/main.69a1d2d2.js.map",
     "453.771dee9a.chunk.js.map": "/pegboardmaker/static/js/453.771dee9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1743f26c.css",
-    "static/js/main.799e4be8.js"
+    "static/js/main.69a1d2d2.js"
   ]
 }
