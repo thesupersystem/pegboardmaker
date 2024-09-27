@@ -1,15 +1,21 @@
 {
   "files": {
     "main.css": "/pegboardmaker/static/css/main.1743f26c.css",
-    "main.js": "/pegboardmaker/static/js/main.69a1d2d2.js",
+    "main.js": "/pegboardmaker/static/js/main.32bfcdd3.js",
+    "static/js/239.2825fe1f.chunk.js": "/pegboardmaker/static/js/239.2825fe1f.chunk.js",
+    "static/js/213.26040506.chunk.js": "/pegboardmaker/static/js/213.26040506.chunk.js",
+    "static/js/732.58b709e5.chunk.js": "/pegboardmaker/static/js/732.58b709e5.chunk.js",
     "static/js/453.771dee9a.chunk.js": "/pegboardmaker/static/js/453.771dee9a.chunk.js",
     "index.html": "/pegboardmaker/index.html",
     "main.1743f26c.css.map": "/pegboardmaker/static/css/main.1743f26c.css.map",
-    "main.69a1d2d2.js.map": "/pegboardmaker/static/js/main.69a1d2d2.js.map",
+    "main.32bfcdd3.js.map": "/pegboardmaker/static/js/main.32bfcdd3.js.map",
+    "239.2825fe1f.chunk.js.map": "/pegboardmaker/static/js/239.2825fe1f.chunk.js.map",
+    "213.26040506.chunk.js.map": "/pegboardmaker/static/js/213.26040506.chunk.js.map",
+    "732.58b709e5.chunk.js.map": "/pegboardmaker/static/js/732.58b709e5.chunk.js.map",
     "453.771dee9a.chunk.js.map": "/pegboardmaker/static/js/453.771dee9a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1743f26c.css",
-    "static/js/main.69a1d2d2.js"
+    "static/js/main.32bfcdd3.js"
   ]
 }
